@@ -26,10 +26,3 @@ This project involves the implementation of a **Markov Chain Text Generator** as
 | *Recipe Books* | `Preheat the` | *Preheat the oven to 350 degrees. In a large bowl, whisk the baking pan together until the mixture resembles coarse crumbs.* |
 
 
-## ⚙️ How to Run
-
-### Option A: Using VS Code (Local Environment)
-1. Clone the repository and open the project directory in **VS Code**:
-   ```bash
-   git clone [https://github.com/yourusername/PRODIGY_GA_04.git](https://github.com/yourusername/PRODIGY_GA_04.git)
-   code PRODIGY_GA_04
