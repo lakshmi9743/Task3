@@ -1,5 +1,5 @@
 # Prodigy InfoTech - Task 04: Markov Chain Text Generator
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/https://colab.research.google.com/drive/1jvZ0zGchq_q-xdAp8uPJp2XcccmH-2a0?usp=sharing?)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jvZ0zGchq_q-xdAp8uPJp2XcccmH-2a0?usp=sharing)
 * live demo : https://055016cc6ba3fa2f48.gradio.live
 
 ## 📌 Project Overview
