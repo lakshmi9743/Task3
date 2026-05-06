@@ -1,6 +1,6 @@
 # Prodigy InfoTech - Task 04: Markov Chain Text Generator
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/YOUR_COLAB_LINK_HERE?usp=sharing)
-* live demo : https://your-gradio-link-here.gradio.live
+* live demo : https://055016cc6ba3fa2f48.gradio.live
 
 ## 📌 Project Overview
 This project involves the implementation of a **Markov Chain Text Generator** as part of my internship at **Prodigy InfoTech**. Using probability-based state transitions (n-grams), this system analyzes input training text to build a state-transition matrix, allowing users to automatically generate realistic, context-aware, or highly stylistic synthetic text based on user-defined prompts.
